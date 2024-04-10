@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.34804.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNullReference", "UnitTestNullReference\UnitTestNullReference.csproj", "{CFC650E8-4F61-4C5C-A520-4D7C8A41729F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowsNullReferenceTest", "ThrowsNullReferenceTest\ThrowsNullReferenceTest.csproj", "{AE67E861-77C1-466F-95CA-A9168FC54229}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{CFC650E8-4F61-4C5C-A520-4D7C8A41729F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFC650E8-4F61-4C5C-A520-4D7C8A41729F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CFC650E8-4F61-4C5C-A520-4D7C8A41729F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AE67E861-77C1-466F-95CA-A9168FC54229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE67E861-77C1-466F-95CA-A9168FC54229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE67E861-77C1-466F-95CA-A9168FC54229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE67E861-77C1-466F-95CA-A9168FC54229}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
